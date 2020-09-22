@@ -1,4 +1,4 @@
-# Find a computer science related job
+# One-liner for CS job seekers
 
 For example, jobs like SDE, MLE, research/applied scientist (RS).
 
