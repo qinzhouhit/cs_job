@@ -1,4 +1,8 @@
-# cs_job
-Some high-level instruction on jobs of computer science major
+# Find a computer science related job, e.g., SDE, MLE, research scientist
+
+
+Just some person summary:
+
+
 
 
