@@ -1,4 +1,4 @@
-# Intro for CS job seekers
+# Intro to CS job seeking
 
 For example, jobs like SDE, MLE, research/applied scientist (RS).
 
