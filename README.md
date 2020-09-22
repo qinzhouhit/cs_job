@@ -1,8 +1,8 @@
 # Intro to CS job seeking
 
-For example, jobs like SDE, MLE, research/applied scientist (RS).
+For example, industrial jobs like SDE, MLE, research/applied scientist (RS).
 
-Just some person summary, more related to PhD or experienced masters. In short, one needs to prepare from three perspectives, despite your own research/ industrial experiences.
+Just some personal summary, more related to PhD or experienced masters. In short, one needs to prepare from three perspectives, despite your own research/ industrial experiences.
 
 1. LeetCode (SDE, MLE, RS)
 Resources: LeetCode, Youtuber, GeeksforGeeks
