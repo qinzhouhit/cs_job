@@ -1,6 +1,6 @@
 # Intro to CS job seeking
 
-For example, industrial jobs like SDE, MLE, research/applied scientist (RS).
+I.e., industrial jobs like SDE, MLE, research/applied scientist (RS). Data scientist (DS) is another topic though.
 
 Just some personal summary, more related to PhD or experienced masters. In short, one needs to prepare from three perspectives, despite your own research/ industrial experiences.
 
