@@ -2,7 +2,7 @@
 
 I.e., industrial jobs like SDE, MLE, research/applied scientist (RS). Data scientist (DS) is another topic though.
 
-One-liner: prepare as EARLY as possible! Data structures, ML design, system design, the more time you spend on them, the more benefits you will receive in the future.
+One-liner: PREPARE AS EARLY AS POSSIBLE! Data structures, ML design, system design, the effort/ time you pay determine your level.
 
 Just some personal summary, more related to PhD or experienced masters. In short, one needs to prepare from three perspectives, despite your own research/ industrial experiences.
 
