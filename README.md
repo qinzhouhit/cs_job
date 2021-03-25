@@ -4,7 +4,7 @@ This is a short summary of my personal job seeking experience., including indust
 
 ### Key points
 1) PREPARE AS EARLY AS POSSIBLE!!! Data structures, ML design, system design, the effort/ time you pay finally determines your level.
-2) Find an internshinp, not any internshinp, the internshinps which can become return offers. This is much easier if you want to work in big names.
+2) Find an internshinp, not any internshinp, the internshinps which can become return offers. This is much easier if you want to work in big (any) companies.
 3) If not intern, then it becomes hard. It is hard since you have to interview for several rounds to obtain an offer; it is hard since you may also need to compete with experienced candidates.
 
 ### Preparation
