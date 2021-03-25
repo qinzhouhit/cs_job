@@ -4,7 +4,7 @@ This is a short summary of my personal job seeking experience., including indust
 
 ### Key points
 1) PREPARE AS EARLY AS POSSIBLE!!! Coding, ML design, system design, the effort/ time you pay finally determines your level.
-2) Find an internshinp, not any internshinp, the internshinps which can become return offers. This is much easier if you want to work in big (any) companies.
+2) Find an internshinp, not any internshinp, the internshinps which can become return offers. It makes it much easier if you want to work in big (any) companies, and it completely changes your job searching (if you still want to search for more).
 3) If no return offer, then it becomes hard. It is hard since you have to interview for several rounds to obtain an offer, any mistake you made during any round can terminate your application; it is hard since you may also need to compete with experienced candidates; it is hard since you have to be really good so one can hire you for a full-time position without working with you before.
 
 ### Preparation
