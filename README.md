@@ -16,3 +16,14 @@ In short, one needs to prepare from a few perspectives, despite your own researc
 3) System Design (SDE, RS). Resources: Grokking the System Design Interview, projects
 4) Machine Learning Design (RS, MLE, DS). Resources: Grokking the Machine Learning Interview, Kaggle, projects
 5) Others, e.g., SQL, statistics, probability, etc. 
+
+### Application
+1) Directly go to recruiter or hiring manager, if possible.
+2) Find employers who can refer you.
+3) Apply directly (inefficient but works after applying hundreds of positions).
+
+### Interview
+1) Check historical interview questions online.
+2) Check with people having experience interviewing the target companies.
+3) Prepare for the basics (inefficient but works after spending hundreds/thousands of hours)
+
