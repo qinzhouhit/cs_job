@@ -24,6 +24,6 @@ In short, one needs to prepare from a few perspectives, despite your own researc
 
 ### Interview
 1) Check historical interview questions online.
-2) Check with people having experience interviewing the target companies.
+2) Check with people having experience interviewing with the target companies.
 3) Prepare for the basics (inefficient but works after spending hundreds/thousands of hours)
 
