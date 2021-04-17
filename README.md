@@ -36,5 +36,5 @@ One can apply for New Grad roles or entry level roles with <= 3 years of experie
 4) MLE: usually they want someone with industrial experience as SDE/ MLE. 
 
 ### Pure research roles
-Just in case one is interested, there are certain PURE research roles (research + publishing paper) in certain companies, such as Spotify, Salesforce, Alibaba DAMO, Deepmind, Dataminr, etc.
+Just in case one is interested, there are certain PURE research roles (research + publishing paper) in certain companies, such as Spotify, Salesforce, Alibaba DAMO, Deepmind, NEC, Dataminr, etc.
 
