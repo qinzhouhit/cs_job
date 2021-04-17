@@ -33,5 +33,5 @@ One can apply for New Grad roles or entry level roles with <= 3 years of experie
 1) SDE: one can try roles explicit marking as New/Univeristy Grad.
 2) DS: both new grad and entry level roles are fine.
 3) RS/AS: no new grad for these roles, you compete with experienced/PhD candidates.
-4) MLE: usually they want someone with industrial experience as SDE/MLE. (MLE essentially means SDE with machine learning knowledge.)
+4) MLE: usually they want someone with industrial experience as SDE/MLE. 
 
