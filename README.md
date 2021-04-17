@@ -35,3 +35,6 @@ One can apply for New Grad roles or entry level roles with <= 3 years of experie
 3) RS/AS: no new grad version, you compete with experienced/PhD candidates.
 4) MLE: usually they want someone with industrial experience as SDE/ MLE. 
 
+### Pure research roles
+Just in case one is interested, there are certain PURE research roles (research + publishing paper) in certain companies, such as Spotify, Salesforce, Alibaba DAMO, Deepmind, Dataminr, etc.
+
