@@ -23,7 +23,7 @@ In short, one needs to prepare from a few perspectives, despite your own researc
 3) Apply directly (inefficient but it works after applying for hundreds of positions).
 
 ### Interview
-1) Check historical interview questions online.
+1) Check the historical interview questions online.
 2) Check with people having experience interviewing with the target companies.
 3) Prepare for the basics (inefficient but it works after spending hundreds/thousands of hours)
 
