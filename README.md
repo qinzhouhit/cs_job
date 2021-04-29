@@ -15,7 +15,7 @@ In short, one needs to prepare from a few perspectives, despite your own researc
 2) LeetCode (SDE, MLE, RS, DS). Resources: LeetCode, Youtube, GeeksforGeeks.
 3) System Design (SDE, RS). Resources: Grokking the System Design Interview, projects.
 4) Machine Learning Design (RS, MLE, DS). Resources: Grokking the Machine Learning Interview, Kaggle, projects.
-5) Others, e.g., SQL, statistics, probability, etc. 
+5) Other things, e.g., SQL, statistics, probability, etc. 
 
 ### Application
 1) Directly go to the recruiter or hiring manager, if possible, e.g., LinkedIn InMail.
@@ -32,9 +32,9 @@ One can apply for New Grad roles or entry level roles with <= 3 years of experie
 
 1) SDE: one can try roles explicit marking as New/ Univeristy Grad.
 2) DS: both new grad and entry level roles are fine.
-3) RS/AS: no new grad version, you compete with experienced/PhD candidates.
+3) RS/AS: no new grad version, you compete with experienced/ PhD candidates.
 4) MLE: usually they want someone with industrial experience as SDE/ MLE. 
 
 ### Pure research roles
-Just in case one is interested, there are certain PURE research roles (research + publishing paper) in certain companies, such as Spotify, Salesforce, Alibaba DAMO, Deepmind, NEC, Dataminr, etc.
+Just in case one is interested, there are certain PURE research roles (research + publishing paper) in some companies, such as Spotify, Salesforce, Alibaba DAMO, Deepmind, NEC, Dataminr, etc.
 
