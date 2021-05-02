@@ -15,7 +15,7 @@ In short, one needs to prepare from a few perspectives, despite your own researc
 2) LeetCode (SDE, MLE, RS, DS). Resources: LeetCode, Youtube, GeeksforGeeks.
 3) System Design (SDE, RS). Resources: Grokking the System Design Interview, projects.
 4) Machine Learning Design (RS, MLE, DS). Resources: Grokking the Machine Learning Interview, Kaggle, projects.
-5) Other things, e.g., SQL, statistics, probability, etc. 
+5) Other things, e.g., behavioral questions, SQL, stats, math (e.g., probability), etc. 
 
 ### Application
 1) Directly go to the recruiter or hiring manager, if possible, e.g., LinkedIn InMail.
