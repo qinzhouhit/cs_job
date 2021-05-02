@@ -38,3 +38,6 @@ One can apply for New Grad roles or entry level roles with <= 3 years of experie
 ### Pure research roles
 Just in case one is interested, there are certain PURE research roles (research + publishing paper) in some companies, such as Spotify, Salesforce, Alibaba DAMO, Deepmind, NEC, Dataminr, etc.
 
+### Other tips
+1) Check 一亩三分地 for anything related to job search, e.g., interview process, previous interview questions, offer package, etc.
+2) Google it if you have any question towards any question, e.g., which companies provide return offers, how to prepare machine learning interview, etc.
