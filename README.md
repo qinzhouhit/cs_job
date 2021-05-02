@@ -1,4 +1,4 @@
-### Intro to Computer Science job search
+### Intro to Computer Science Job Search
 
 A short summary of some personal job search experience, including industrial jobs like SDE, MLE, research/ applied scientist (RS), and data scientist (DS).
 
