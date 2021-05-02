@@ -40,4 +40,4 @@ Just in case one is interested, there are certain PURE research roles (research 
 
 ### Other tips
 1) Check 一亩三分地 for anything related to job search, e.g., interview process, previous interview questions, offer package, etc.
-2) Google it if you have any question towards any question, e.g., which companies provide return offers, how to prepare machine learning interview, etc.
+2) Google it if you have any question towards any question, e.g., which companies provide return offers, how to prepare machine learning interview, how to make use of LeetCode, etc.
