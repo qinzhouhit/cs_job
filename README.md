@@ -1,6 +1,6 @@
 ### Intro to Computer Science job search
 
-This is a short summary of my personal job search experience., including industrial jobs like SDE, MLE, research/ applied scientist (RS), and data scientist (DS).
+A short summary of some personal job search experience., including industrial jobs like SDE, MLE, research/ applied scientist (RS), and data scientist (DS).
 
 ### Key points
 1) For PhD, the top priority should always be publishing first-authored top conference papers, e.g., NeurIPS, SIGIR, WWW, KDD, AAAI, ACL, EMNLP, CVPR, etc. Decent publication records can even bring the jobs to you.
