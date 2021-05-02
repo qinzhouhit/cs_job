@@ -22,11 +22,6 @@ In short, one needs to prepare from a few perspectives, despite your own researc
 2) Find employers who can refer you.
 3) Apply directly (inefficient but it works after applying for hundreds of positions).
 
-### Interview
-1) Check the historical interview questions online.
-2) Check with people having experience interviewing with the target companies.
-3) Prepare for the basics (inefficient but it works after spending hundreds/thousands of hours)
-
 ### Job level
 One can apply for New Grad roles or entry level roles with <= 3 years of experience required. 
 
@@ -34,6 +29,11 @@ One can apply for New Grad roles or entry level roles with <= 3 years of experie
 2) DS: both new grad and entry level roles are fine.
 3) RS/ AS: no new grad version, you compete with experienced/ PhD candidates.
 4) MLE: usually they want someone with industrial experience as SDE/ MLE. 
+
+### Interview
+1) Check the historical interview questions online.
+2) Check with people having experience interviewing with the target companies.
+3) Prepare for the basics (inefficient but it works after spending hundreds/thousands of hours)
 
 ### Pure research roles
 Just in case one is interested, there are certain PURE research roles (research + publishing paper) in some companies, such as Spotify, Salesforce, Alibaba DAMO, Deepmind, NEC, Dataminr, etc.
