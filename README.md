@@ -33,11 +33,11 @@ One can apply for New Grad roles or entry level roles with <= 3 years of experie
 ### Interview
 1) Check the historical interview questions online.
 2) Check with people having experience interviewing with the target companies.
-3) Prepare for the basics (inefficient but it works after spending hundreds/thousands of hours)
+3) Prepare for the basics (inefficient but it works after spending hundreds/ thousands of hours)
 
 ### Pure research roles
 Just in case one is interested, there are certain PURE research roles (research + publishing paper) in some companies, such as Spotify, Salesforce, Alibaba DAMO, Deepmind, NEC, Dataminr, etc.
 
 ### Other tips
-1) Check 一亩三分地 for anything related to job search, e.g., interview process, previous interview questions, offer package, etc.
+1) Check 一亩三分地 for anything related to job search, e.g., interview process/ timeline, previous interview questions, offer package, etc.
 2) Google it if you have any question towards any topic, e.g., which companies provide return offers, how to prepare machine learning interview, how to make use of LeetCode, etc.
