@@ -19,7 +19,7 @@ In short, one needs to prepare from a few perspectives, despite your own researc
 
 ### Application
 1) Directly go to the recruiter or hiring manager, if possible, e.g., LinkedIn InMail.
-2) Find employers who can refer you.
+2) Find employees who can refer you.
 3) Apply directly (inefficient but it works after applying for hundreds of positions).
 
 ### Job level
